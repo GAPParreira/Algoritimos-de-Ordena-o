@@ -1,0 +1,5 @@
+Programas desenvolvidos com objetivo de ordenar um numero N de quantidades de dados.
+Para o uso do mesmo e necessario utilizar um compilador c (CodeBlocks Seria um sugestão).
+1 Passo: Voce entrará com a quantidade de dados que deseja ordenar.
+2 Passo: De acordo com a quantidade de dados que colocou, o algoritimo ira gerar numeros aleatorios para preencher esses espaços.
+3 Passo: O Algoritimo no final do processo, ira apresentar o tempo gasto para ordenar aquela quantidade de dados.
